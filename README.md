@@ -15,7 +15,7 @@ https://www.ufotv.com/
 
 # people:
 ## Christian J. Pinto
-https://www.google.com/search?q=Christian+J.+Pinto+documentary
+sch: https://www.google.com/search?q=Christian+J.+Pinto+documentary
 
 Home:
 - imdb https://www.imdb.com/name/nm2281033/
